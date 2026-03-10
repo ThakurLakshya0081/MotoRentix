@@ -34,13 +34,13 @@ interface AppState {
 }
 
 const mockUser: UserProfile = {
-  name: 'Rahul Sharma',
-  email: 'rahul@example.com',
-  dob: '1995-06-15',
-  address: '42 MG Road, Indiranagar',
-  city: 'Bangalore',
-  pincode: '560038',
-  aadhaar: 'XXXX-XXXX-4532',
+  name: 'Deepak Jadon',
+  email: 'deepakjadon0011@gmail.com',
+  dob: '1998-01-15',
+  address: '12 Rajpur Road, Civil Lines',
+  city: 'Delhi',
+  pincode: '110054',
+  aadhaar: 'XXXX-XXXX-7890',
 };
 
 const mockBookings: Booking[] = [
